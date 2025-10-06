@@ -7,16 +7,18 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
+1. OOnce upon a time, there was a castle so big it needed its own Wi-Fi password. **castle**.  
    ![castle](img1.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. Suddenly, a dragon appeared!
+   But wait… it started charging itself with a USB cable.
+   So yes, it was actually a dragon-shaped robot built by a part-time intern. **dragon**.
+   ![dragon](img2.png)
 
 3. The scientist shouted something very important but nobody wrote it down.  
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+   ![treasure chest](img3.png)
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
