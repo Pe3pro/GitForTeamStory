@@ -23,9 +23,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
 
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
+7. Suddenly, the rocket ![rocket](img/rocket.png) blasted off into the sky and encountered a floating kitty in space. Everyone was very surprised!
 
-8. The cat was supposed to talk here, but the line is missing.  
+8. And then, the cat walked in and said, "Meow meow, can I have some food, please?"
 
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
