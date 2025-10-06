@@ -15,7 +15,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    So yes, it was actually a dragon-shaped robot built by a part-time intern. **dragon**.
    ![dragon](img2.png)
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. Dr. Blip, the lead scientist, yelled, “Quick! Don’t unplug the dragon-robot!”
+But nobody listened, so sparks flew everywhere and the Wi-Fi went down.
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img3.png)
