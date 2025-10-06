@@ -16,7 +16,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 3. The scientist shouted something very important but nobody wrote it down.  
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+   ![treasure chest](img3.png)
 
 5. Someone found a map, but it had no directions.Still, she followed her instincts through forests and hills.In the end, she realized   the  map was leading her — back home.
    (TODO: add an image of the map?)  
