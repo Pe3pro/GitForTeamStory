@@ -18,7 +18,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
 
-5. Someone found a map, but it had no directions.  
+5. Someone found a map, but it had no directions.Still, she followed her instincts through forests and hills.In the end, she realized   the  map was leading her — back home.
    (TODO: add an image of the map?)  
 
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
@@ -31,3 +31,4 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    (What did they find?)  
 
 10. The ending… well, we don’t really have one. Please fix this.
+
