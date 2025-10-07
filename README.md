@@ -7,19 +7,19 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. OOnce upon a time, there was a castle so big it needed its own Wi-Fi password. **castle**.  
-   ![castle]!(img/castle.png)
+1. OOnce upon a time, there was a castle so big it needed its own Wi-Fi password.
+   ![castle](img/castle.png) 
 
 2. Suddenly, a dragon appeared!
    But wait… it started charging itself with a USB cable.
    So yes, it was actually a dragon-shaped robot built by a part-time intern. **dragon**.
-   ![dragon]!(img/dragon.png)
+   ![dragon](img/dragon.png)
 
 3. Dr. Blip, the lead scientist, yelled, “Quick! Don’t unplug the dragon-robot!”
 But nobody listened, so sparks flew everywhere and the Wi-Fi went down.
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest]!(img/treasure_large.png)
+   ![treasure chest](img/treasure_large.png)
 
 5. Someone found a map, but it had no directions.Still, she followed her instincts through forests and hills.In the end, she realized   the  map was leading her — back home.
    (TODO: add an image of the map?)  
