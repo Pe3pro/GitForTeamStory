@@ -44,7 +44,7 @@ only to discover the map led her right back to the castle ruins.
 “Arrr! Let’s go to space!”
 No one knew why there was a pirate in the chest, but honestly, it had been a long day, so they all agreed.  
 
-7. Moments later, Dr. Blip’s emergency rocket[rocket](img/rocket.png) blasted off into the sky.
+7. Moments later, Dr. Blip’s emergency rocket ![rocket](img/rocket.png) blasted off into the sky.
 In orbit, they encountered a floating cat in a spacesuit calmly licking an asteroid.
 
 8. The cat waved and said, “Meow meow, can I have some snacks, please?”
