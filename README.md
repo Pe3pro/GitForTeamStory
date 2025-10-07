@@ -1,4 +1,14 @@
+#  A name list
+
+ปันฐ์พิสิษฐ์ จิระดำรง 6809650564 (Pe3pro)
+ธนาพล เกิดปัญญา 6809650507 (Thanaphon2548)
+วชิรวิทย์ เรืองเวช 6809650697 (Wachirawit-Ruangwet)
+ณัฏฐนิชา เขียวบุญจันทร์ 6809650465 (donut-natthanicha)
+นาย ณภัทร ทองขาว 6809650457 (Naphat Thongkao)
+
 # Team Story Challenge
+
+
 
 This is the starting draft of your team’s story.  
 Your mission: **revise and improve it**, making it coherent, funny, and illustrated with the provided images.
@@ -54,4 +64,3 @@ until only one sentence remained:
 “Once upon a time, there was a castle so big it needed its own Wi-Fi password.”
 
 . . . END . . .
-
