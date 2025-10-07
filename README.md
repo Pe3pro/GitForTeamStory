@@ -18,8 +18,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 3. Dr. Blip, the lead scientist, yelled, “Quick! Don’t unplug the dragon-robot!”
 But nobody listened, so sparks flew everywhere and the Wi-Fi went down.
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img3.png)
+4. In the chaos, everyone accidentally pressed the teleportation button.
+Suddenly—POOF!—they appeared in a desert with a mysterious treasure chest glowing under the sun.
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
