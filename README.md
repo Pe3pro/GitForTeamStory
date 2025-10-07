@@ -32,6 +32,7 @@ Naturally, someone unplugged it anyway. Sparks flew, alarms blared, and the cast
 4. Amid the chaos, someone accidentally hit the teleportation button on Dr. Blip’s experimental remote.
 With a loud POOF! everyone vanished—
 and reappeared in the middle of a scorching desert, where a glowing treasure chest shimmered in the sand.
+   ![treasure_open](img/treasure_large.png)
 
 
 5. Next to the chest lay a dusty map.
@@ -39,6 +40,7 @@ and reappeared in the middle of a scorching desert, where a glowing treasure che
 She followed it through forests, rivers, and even a sandwich shop—
 only to discover the map led her right back to the castle ruins.
 (Someone really should’ve added GPS directions to that thing.)
+   ![map](img/map.png)
 
 6. Just as everyone reunited, a mysterious pirate burst from the chest yelling,
 “Arrr! Let’s go to space!”
@@ -57,6 +59,7 @@ When it opened, words began writing themselves across the page.
 
 10. “Wait a second,” said the detective (who appeared just in time to solve everything).
 “We’re not real—we’re characters inside this notebook!”
+   ![detective](img/detective.png)
 
 And with that revelation, the story started erasing itself…
 until only one sentence remained:
