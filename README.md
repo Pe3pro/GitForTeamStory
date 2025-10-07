@@ -30,8 +30,8 @@ But nobody listened, so sparks flew everywhere and the Wi-Fi went down.
 
 8. And then, the cat walked in and said, "Meow meow, can I have some food, please?"
 
-9. In the forest, the detective discovered… something.  
-   (What did they find?)  
+9. In the forest, the detective discovered… a glowing notebook floating in midair! When they opened it, the page started writting by themselves. 
+    
 
-10. The ending… well, we don’t really have one. Please fix this.
+10. And so, the detective realized that everyone were all characters inside the notebook.
 
